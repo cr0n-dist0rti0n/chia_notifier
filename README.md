@@ -7,14 +7,10 @@ https://support.google.com/accounts/answer/6010255?hl=en
 
 https://support.google.com/a/answer/6260879?hl=en
 
-Finally, for this to work you must first start the Chia virtual environment in the CLI/Terminal/Commandline etc. This python program requires python3 and the following dependancies which can be install with pip if they are not already installed:
+Finally, for this to work you must first start the Chia virtual environment in the CLI/Terminal/Commandline etc. This python program requires python3 and the following dependancies which can be install with pip3 if they are not already installed:
 
-time
-
-os
-
-re
-
-smtplib
-
+time,
+os,
+re,
+smtplib,
 getpass
