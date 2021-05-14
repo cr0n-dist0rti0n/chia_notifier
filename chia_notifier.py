@@ -40,7 +40,7 @@ while True:
         continue
     break
 
-# Get Chia Data
+# Get Initial Chia Data
 os.system("chia farm summary > chia_notification.log")
 farm_sum =  open('chia_notification.log', 'r')
 
